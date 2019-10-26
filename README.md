@@ -75,7 +75,8 @@ LANGKAH LAHNGKAH MEMBUAT REPOSITORY LOCAL DAN REPOSITORY PADA GITHUB DAN MEMBUAT
 <br/>![PicsArt_10-26-06 28 49](https://user-images.githubusercontent.com/57000408/67618838-9c824080-f81e-11e9-9a71-7957bd8e5f70.jpg)
 <br/>
 <br/> 15.Kirim perubahan local repository ke GitHub dengan menggunakan perintah "git push -u origin master" .
-<br/>
+<br/>![PicsArt_10-26-06 29 15](https://user-images.githubusercontent.com/57000408/67618863-d0f5fc80-f81e-11e9-99ea-5278db7acd49.jpg)
+
 <br/> 16.Dan untuk melihat hasilnya cek di github dan lihat di repository nya. 
 <br/>
 <br/> 17. Jika ingin melalukan clone reposotory gunakan perintan " git clone https://github.com/kimkim16r/latihanpytn1/edit/master/README.md " lalu jika ingin masuk ke direktori gunakan perintah "cd [nama derektori]. Contoh "cd latihanpytn1". Jika ingin melihat semua isi direktori gunkan perinta "ls" 
