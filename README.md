@@ -64,7 +64,8 @@ LANGKAH LAHNGKAH MEMBUAT REPOSITORY LOCAL DAN REPOSITORY PADA GITHUB DAN MEMBUAT
 <br/> 11.Lalu buat file bernama README.md dengan memasukan perintah "echo"#latihanpytn1">>README.md" lalu masukan perintah "ls_l" untuk melihat file. 
 <br/> 
 <br/> 12.Memasukan File README.md ke repository lokal dengan menggunakan perintah "git add README.md" 
-<br/>
+<br/>![PicsArt_10-26-04 30 47](https://user-images.githubusercontent.com/57000408/67618678-99865080-f81c-11e9-9fd1-9c4ba70f8cf6.jpg)
+
 <br/> 13.Masukan perintah "git commit-m" komentar saya. Untuk menyimpan perubahan ke database Repository. 
 <br/>
 <br/> 14.Masuk lagi ke websie github lalu masuk lagi ke repository yang sebelumnya di buat. Pada bagian quick setup terdapat URL github kita. URL ini nantinya akan di gunakan dengan perintah "git remote add origin [URL] dan perintah git clone " git clone [URL]"
