@@ -72,7 +72,9 @@ LANGKAH LAHNGKAH MEMBUAT REPOSITORY LOCAL DAN REPOSITORY PADA GITHUB DAN MEMBUAT
 <br/> 13.Masukan perintah "git commit-m" komentar saya. Untuk menyimpan perubahan ke database Repository. 
 <br/>![PicsArt_10-26-04 37 18](https://user-images.githubusercontent.com/57000408/67618700-f3871600-f81c-11e9-81b4-58400fd38384.jpg)
 <br/> 14.Masuk lagi ke websie github lalu masuk lagi ke repository yang sebelumnya di buat. Pada bagian quick setup terdapat URL github kita. URL ini nantinya akan di gunakan dengan perintah "git remote add origin [URL] dan perintah git clone " git clone [URL]"
-<br/>    contoh : git remote add origin https://github.com/kimkim16r/latihanpytn1/blob/master/README.md
+<br/> 
+![IMG_20191026_183851](https://user-images.githubusercontent.com/57000408/67618955-0ea75500-f820-11e9-86aa-081aee8e3719.JPG)
+<br/>   contoh : git remote add origin https://github.com/kimkim16r/latihanpytn1/blob/master/README.md
 <br/>![PicsArt_10-26-06 28 49](https://user-images.githubusercontent.com/57000408/67618838-9c824080-f81e-11e9-9a71-7957bd8e5f70.jpg)
 <br/>
 <br/> 15.Kirim perubahan local repository ke GitHub dengan menggunakan perintah "git push -u origin master" .
