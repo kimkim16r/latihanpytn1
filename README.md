@@ -56,7 +56,7 @@ LANGKAH LAHNGKAH MEMBUAT REPOSITORY LOCAL DAN REPOSITORY PADA GITHUB DAN MEMBUAT
 <br/> 7. Buka dokument dan buat "folder" baru di direktori,  lalu klik kanan pada fiolder terserbt, dan pilih "Git bash Here".
 <br/>
 <br/> 8. Lalu configurasi dengan mamasukan perintah " git config --global user.name "nama user" Dan " git config --global user.email "email user".
-<br/>
+<br/>![PicsArt_10-26-04 20 26](https://user-images.githubusercontent.com/57000408/67618639-1d8c0880-f81c-11e9-8545-42b58d4d823a.jpg)
 <br/> 9. Buat direktori baru denagan memasukan perintag mkdir.cd latihan1, lalu cd latihan1.
 <br/>
 <br/> 10.Buat file kosong berformat .git dengan cara menjalankan perintah "git init". 
