@@ -52,6 +52,7 @@ LANGKAH LAHNGKAH MEMBUAT REPOSITORY LOCAL DAN REPOSITORY PADA GITHUB DAN MEMBUAT
 <br/>![1572064342634](https://user-images.githubusercontent.com/57000408/67614278-58724a00-f7e4-11e9-9d50-783c6f8880c5.png)
 <br/>
 <br/> Membuat repository lokal dan membuat file README.md
+<br/>
 <br/> 7. Buka dokument dan buat "folder" baru di direktori,  lalu klik kanan pada fiolder terserbt, dan pilih "Git bash Here".
 <br/>
 <br/> 8. Lalu configurasi dengan mamasukan perintah " git config --global user.name "nama user" Dan " git config --global user.email "email user".
