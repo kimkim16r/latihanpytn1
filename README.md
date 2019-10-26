@@ -20,4 +20,27 @@ LANGKAH LAHNGKAH MEMBUAT REPOSITORY LOCAL DAN REPOSITORY PADA GITHUB DAN MEMBUAT
 <br/>![Screenshot (9)](https://user-images.githubusercontent.com/57000408/67613778-88691f80-f7db-11e9-8eb5-f54a6b898d03.png)
 <br/> 6. Dan anda akan di alihkan ke tab baru untuk create a new repository, Isi repository name lulu klik create repository. 
 <br/>![repo-name-user](https://user-images.githubusercontent.com/57000408/67613863-c155c400-f7dc-11e9-9a49-82cab0782a6e.gif)
-<br/> tampulan repository yang baru. 
+<br/> tampilan repository yang baru. 
+<br/><img width="1264" alt="github_new_repo3" src="https://user-images.githubusercontent.com/57000408/67613902-64a6d900-f7dd-11e9-8bcb-38b1efa85304.png">
+<br/> Download sofware git di “git-scm.com” DAN INSTALL SOFTWARE GIT terlebih dahulu, Untuk Anda pengguna Windows, berikut ini cara mengginstall Git di Windows. Download Git versi Windows terbaru Selesai di download, maka double click file tersebut untuk menginstall.
+<br/> A.Muncul tampilan mengenai lisensi seperti dibawah ini, lalu klik NEXT
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
