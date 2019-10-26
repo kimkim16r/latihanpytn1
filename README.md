@@ -48,7 +48,7 @@ LANGKAH LAHNGKAH MEMBUAT REPOSITORY LOCAL DAN REPOSITORY PADA GITHUB DAN MEMBUAT
 <br/> L. Proses intalasi telah selesai
 <br/>![1572062060372](https://user-images.githubusercontent.com/57000408/67614246-b3577180-f7e3-11e9-9ae3-247fef1dcae5.jpg)
 <br/> Dan pastikan program Git sudah dapat di gunakan di perangkat kalian dengan cara membuka Command Prompt lalu ketik "git --version" jika sudah muncul berarti Git sudah dapat di gunakan. 
-<br/>
+<br/>![1572064342634](https://user-images.githubusercontent.com/57000408/67614278-58724a00-f7e4-11e9-9d50-783c6f8880c5.png)
 <br/>
 <br/>
 <br/>
