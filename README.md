@@ -35,7 +35,8 @@ LANGKAH LAHNGKAH MEMBUAT REPOSITORY LOCAL DAN REPOSITORY PADA GITHUB DAN MEMBUAT
 <br/> E. Pilih editor untuk menggunakan git nantinya. 
 <br/>![1572062040815](https://user-images.githubusercontent.com/57000408/67614170-4abbc500-f7e2-11e9-9be8-634c3ab49e30.jpg)
 <br/> F. Mengatur PATH environment
-<br/>
+<br/>![1572062043584](https://user-images.githubusercontent.com/57000408/67614177-6fb03800-f7e2-11e9-8a16-72b8d3a2bbef.jpg)
+
 <br/> G. Memilih jenis koneksi ke server
 <br/>
 <br/> I. Megatur baris file text nantinya
