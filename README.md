@@ -38,7 +38,7 @@ LANGKAH LAHNGKAH MEMBUAT REPOSITORY LOCAL DAN REPOSITORY PADA GITHUB DAN MEMBUAT
 <br/> G. Memilih jenis koneksi ke server.
 <br/>![1572062046440](https://user-images.githubusercontent.com/57000408/67614187-b867f100-f7e2-11e9-86e1-af16e790899c.jpg)
 <br/> I. Megatur baris file text nantinya.
-<br/>
+<br/>![1572062049235](https://user-images.githubusercontent.com/57000408/67614198-fb29c900-f7e2-11e9-9500-005af71e090d.jpg)
 <br/> H. Mengatur terminal emulator
 <br/>
 <br/> J. Memilih opsi tambaham yang di perluakan
