@@ -23,6 +23,7 @@ LANGKAH LAHNGKAH MEMBUAT REPOSITORY LOCAL DAN REPOSITORY PADA GITHUB DAN MEMBUAT
 <br/> tampilan repository yang baru. 
 <br/><img width="1264" alt="github_new_repo3" src="https://user-images.githubusercontent.com/57000408/67613902-64a6d900-f7dd-11e9-8bcb-38b1efa85304.png">
 <br/> Download sofware git di “git-scm.com” DAN INSTALL SOFTWARE GIT terlebih dahulu, Untuk Anda pengguna Windows, berikut ini cara mengginstall Git di Windows. Download Git versi Windows terbaru Selesai di download, maka double click file tersebut untuk menginstall.
+<br/>
 <br/> A. Muncul tampilan mengenai lisensi seperti dibawah ini, lalu klik NEXT.
 <br/>![1572062024934](https://user-images.githubusercontent.com/57000408/67614005-33c7a380-f7df-11e9-86d8-98d7ca0b5f34.jpg)
 <br/> B. Tentukan lokasi folder git.
@@ -50,25 +51,23 @@ LANGKAH LAHNGKAH MEMBUAT REPOSITORY LOCAL DAN REPOSITORY PADA GITHUB DAN MEMBUAT
 <br/> Dan pastikan program Git sudah dapat di gunakan di perangkat kalian dengan cara membuka Command Prompt lalu ketik "git --version" jika sudah muncul berarti Git sudah dapat di gunakan. 
 <br/>![1572064342634](https://user-images.githubusercontent.com/57000408/67614278-58724a00-f7e4-11e9-9d50-783c6f8880c5.png)
 <br/>
+<br/> Membuat repository lokal dan membuat file README.md
+<br/> 7. Buka dokument dan buat "folder" baru di direktori,  lalu klik kanan pada fiolder terserbt, dan pilih "Git bash Here".
 <br/>
+<br/> 8. Lalu configurasi dengan mamasukan perintah " git config --global user.name "nama user" Dan " git config --global user.email "email user".
 <br/>
+<br/> 9. Buat direktori baru denagan memasukan perintag mkdir.cd latihan1, lalu cd latihan1.
 <br/>
+<br/> 10.Buat file kosong berformat .git dengan cara menjalankan perintah "git init". 
 <br/>
+<br/> 11.Lalu buat file bernama README.md dengan memasukan perintah "echo"#latihanpytn1">>README.md" lalu masukan perintah "ls_l" untuk melihat file. 
+<br/> 
+<br/> 12.Memasukan File README.md ke repository lokal dengan menggunakan perintah "git add README.md" 
 <br/>
+<br/> 13.Masukan perintah "git commit-m" komentar saya. Untuk menyimpan perubahan ke database Repository. 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br/> 14.Masuk lagi ke websie github lalu masuk lagi ke repository yang sebelumnya di buat. Pada bagian quick setup terdapat URL github kita. URL ini nantinya akan di gunakan dengan perintah "git remote add origin [URL] dan perintah git clone " git clone [URL]"
+<br/>    contoh : git remote add origin
 <br/>
 <br/>
 <br/>
