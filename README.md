@@ -58,7 +58,7 @@ LANGKAH LAHNGKAH MEMBUAT REPOSITORY LOCAL DAN REPOSITORY PADA GITHUB DAN MEMBUAT
 <br/> 8. Lalu configurasi dengan mamasukan perintah " git config --global user.name "nama user" Dan " git config --global user.email "email user".
 <br/>![PicsArt_10-26-04 20 26](https://user-images.githubusercontent.com/57000408/67618639-1d8c0880-f81c-11e9-8545-42b58d4d823a.jpg)
 <br/> 9. Buat direktori baru denagan memasukan perintag mkdir.cd latihan1, lalu cd latihan1.
-<br/>
+<br/>![PicsArt_10-26-04 27 57](https://user-images.githubusercontent.com/57000408/67618657-5e841d00-f81c-11e9-8e08-ecf15648f45e.jpg)
 <br/> 10.Buat file kosong berformat .git dengan cara menjalankan perintah "git init". 
 <br/>
 <br/> 11.Lalu buat file bernama README.md dengan memasukan perintah "echo"#latihanpytn1">>README.md" lalu masukan perintah "ls_l" untuk melihat file. 
