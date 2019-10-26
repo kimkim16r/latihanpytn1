@@ -12,7 +12,7 @@ LANGKAH LAHNGKAH MEMBUAT REPOSITORY LOCAL DAN REPOSITORY PADA GITHUB DAN MEMBUAT
 <br/>![images (2)](https://user-images.githubusercontent.com/57000408/67613344-aed88c00-f7d6-11e9-93ea-7ad63b3981f1.jpeg)
 <br/> 2. Lalu verfiy your account dengan memasukan chapta.
 <br/>![1572059320928](https://user-images.githubusercontent.com/57000408/67613599-8b631080-f7d9-11e9-895f-f855dae72f4f.jpg)
-<br/>
+<br/> 3. Lalu pilih $0 usd. 
 <br/>
 <br/>
 <br/>
