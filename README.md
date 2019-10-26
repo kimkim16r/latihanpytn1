@@ -31,7 +31,7 @@ LANGKAH LAHNGKAH MEMBUAT REPOSITORY LOCAL DAN REPOSITORY PADA GITHUB DAN MEMBUAT
 <br/> C. Pilih komponen yang akan di instal. 
 <br/>![1572062032022](https://user-images.githubusercontent.com/57000408/67614146-a20d6580-f7e1-11e9-8abf-0ba1ffe0c6b6.jpg)
 <br/> D. Tentukan nama folder
-<br/>
+<br/>![1572062038176](https://user-images.githubusercontent.com/57000408/67614153-da14a880-f7e1-11e9-8529-322c016d2e30.jpg)
 <br/> E. Pilih editor untuk menggunakan git nantinya. 
 <br/>
 <br/> F. Mengatur PATH environment
