@@ -60,7 +60,8 @@ LANGKAH LAHNGKAH MEMBUAT REPOSITORY LOCAL DAN REPOSITORY PADA GITHUB DAN MEMBUAT
 <br/> 9. Buat direktori baru denagan memasukan perintag mkdir.cd latihan1, lalu cd latihan1.
 <br/>![PicsArt_10-26-04 27 57](https://user-images.githubusercontent.com/57000408/67618657-5e841d00-f81c-11e9-8e08-ecf15648f45e.jpg)
 <br/> 10.Buat file kosong berformat .git dengan cara menjalankan perintah "git init". 
-<br/>
+<br/>![PicsArt_10-26-06 21 44](https://user-images.githubusercontent.com/57000408/67618747-ab1c2800-f81d-11e9-954c-6c0e6218c8e5.jpg)
+
 <br/> 11.Lalu buat file bernama README.md dengan memasukan perintah "echo"#latihanpytn1">>README.md" lalu masukan perintah "ls_l" untuk melihat file. 
 <br/> 
 <br/> 12.Memasukan File README.md ke repository lokal dengan menggunakan perintah "git add README.md" 
