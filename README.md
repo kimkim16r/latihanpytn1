@@ -23,23 +23,21 @@ LANGKAH LAHNGKAH MEMBUAT REPOSITORY LOCAL DAN REPOSITORY PADA GITHUB DAN MEMBUAT
 <br/> tampilan repository yang baru. 
 <br/><img width="1264" alt="github_new_repo3" src="https://user-images.githubusercontent.com/57000408/67613902-64a6d900-f7dd-11e9-8bcb-38b1efa85304.png">
 <br/> Download sofware git di “git-scm.com” DAN INSTALL SOFTWARE GIT terlebih dahulu, Untuk Anda pengguna Windows, berikut ini cara mengginstall Git di Windows. Download Git versi Windows terbaru Selesai di download, maka double click file tersebut untuk menginstall.
-<br/> A.Muncul tampilan mengenai lisensi seperti dibawah ini, lalu klik NEXT
-<br/>A. Muncul tampilan mengenai lisensi seperti dibawah ini, lalu klik NEXT
+<br/> A. Muncul tampilan mengenai lisensi seperti dibawah ini, lalu klik NEXT.
 <br/>![1572062024934](https://user-images.githubusercontent.com/57000408/67614005-33c7a380-f7df-11e9-86d8-98d7ca0b5f34.jpg)
 <br/> B. Tentukan lokasi folder git.
 <br/>![1572062028954](https://user-images.githubusercontent.com/57000408/67614133-71c5c700-f7e1-11e9-9210-c986e1ecaac1.jpg)
 <br/> C. Pilih komponen yang akan di instal. 
 <br/>![1572062032022](https://user-images.githubusercontent.com/57000408/67614146-a20d6580-f7e1-11e9-8abf-0ba1ffe0c6b6.jpg)
-<br/> D. Tentukan nama folder
+<br/> D. Tentukan nama folder.
 <br/>![1572062038176](https://user-images.githubusercontent.com/57000408/67614153-da14a880-f7e1-11e9-8529-322c016d2e30.jpg)
 <br/> E. Pilih editor untuk menggunakan git nantinya. 
 <br/>![1572062040815](https://user-images.githubusercontent.com/57000408/67614170-4abbc500-f7e2-11e9-9be8-634c3ab49e30.jpg)
-<br/> F. Mengatur PATH environment
+<br/> F. Mengatur PATH environment.
 <br/>![1572062043584](https://user-images.githubusercontent.com/57000408/67614177-6fb03800-f7e2-11e9-8a16-72b8d3a2bbef.jpg)
-
-<br/> G. Memilih jenis koneksi ke server
-<br/>
-<br/> I. Megatur baris file text nantinya
+<br/> G. Memilih jenis koneksi ke server.
+<br/>![1572062046440](https://user-images.githubusercontent.com/57000408/67614187-b867f100-f7e2-11e9-86e1-af16e790899c.jpg)
+<br/> I. Megatur baris file text nantinya.
 <br/>
 <br/> H. Mengatur terminal emulator
 <br/>
