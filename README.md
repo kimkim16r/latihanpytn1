@@ -14,9 +14,9 @@ LANGKAH LAHNGKAH MEMBUAT REPOSITORY LOCAL DAN REPOSITORY PADA GITHUB DAN MEMBUAT
 <br/>![1572059320928](https://user-images.githubusercontent.com/57000408/67613599-8b631080-f7d9-11e9-895f-f855dae72f4f.jpg)
 <br/> 3. Lalu pilih $0 usd. 
 <br/>![1572059331328](https://user-images.githubusercontent.com/57000408/67613659-2c51cb80-f7da-11e9-95ea-c3fdcb156e20.jpg)
+<br/> 4. Lalu pilih "A LITTLE " dan klik complete setup atau bisa di skip.  
 <br/>
-<br/>
-<br/>
+<br/> 5. Cek g-mail/e-mail anda, dan klik verfiy e-mail addres. 
 <br/>
 <br/>
 <br/>
