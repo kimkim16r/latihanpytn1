@@ -40,7 +40,8 @@ LANGKAH LAHNGKAH MEMBUAT REPOSITORY LOCAL DAN REPOSITORY PADA GITHUB DAN MEMBUAT
 <br/> I. Megatur baris file text nantinya.
 <br/>![1572062049235](https://user-images.githubusercontent.com/57000408/67614198-fb29c900-f7e2-11e9-9500-005af71e090d.jpg)
 <br/> H. Mengatur terminal emulator
-<br/>
+<br/>![1572062051796](https://user-images.githubusercontent.com/57000408/67614221-37f5c000-f7e3-11e9-8fc7-de70486ca3d4.jpg)
+
 <br/> J. Memilih opsi tambaham yang di perluakan
 <br/>
 <br/> K. Proses instalasi akan di jalankan,  tunggu sampai 100%
