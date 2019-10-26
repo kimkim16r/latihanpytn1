@@ -17,7 +17,7 @@ LANGKAH LAHNGKAH MEMBUAT REPOSITORY LOCAL DAN REPOSITORY PADA GITHUB DAN MEMBUAT
 <br/> 4. Lalu pilih "A LITTLE " dan klik complete setup atau bisa di skip.  
 <br/>![1572059334470](https://user-images.githubusercontent.com/57000408/67613739-24465b80-f7db-11e9-9915-052ac6cd5d98.jpg)
 <br/> 5. Cek g-mail/e-mail anda, dan klik verfiy e-mail addres. 
-<br/>
-<br/>
-<br/>
+<br/>![Screenshot (9)](https://user-images.githubusercontent.com/57000408/67613778-88691f80-f7db-11e9-8eb5-f54a6b898d03.png)
+<br/> 6. Dan anda akan di alihkan ke tab baru untuk create a new repository, Isi repository name lulu klik create repository. 
+<br/>,
 <br/>
