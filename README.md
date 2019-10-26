@@ -23,7 +23,45 @@ LANGKAH LAHNGKAH MEMBUAT REPOSITORY LOCAL DAN REPOSITORY PADA GITHUB DAN MEMBUAT
 <br/> tampilan repository yang baru. 
 <br/><img width="1264" alt="github_new_repo3" src="https://user-images.githubusercontent.com/57000408/67613902-64a6d900-f7dd-11e9-8bcb-38b1efa85304.png">
 <br/> Download sofware git di “git-scm.com” DAN INSTALL SOFTWARE GIT terlebih dahulu, Untuk Anda pengguna Windows, berikut ini cara mengginstall Git di Windows. Download Git versi Windows terbaru Selesai di download, maka double click file tersebut untuk menginstall.
-<br/> A.Muncul tampilan mengenai lisensi seperti dibawah ini, lalu klik NEXT
+<br/> A. Muncul tampilan mengenai lisensi seperti dibawah ini, lalu klik NEXT
+<br/>![1572062024934](https://user-images.githubusercontent.com/57000408/67614005-33c7a380-f7df-11e9-86d8-98d7ca0b5f34.jpg)
+<br/> B. Tentukan lokasi folder git.
+<br/>
+<br/> C. Pilih komponen yang akan di instal. 
+<br/>
+<br/> D. Tentukan nama folder
+<br/>
+<br/> E. Pilih editor untuk menggunakan git nantinya. 
+<br/>
+<br/> F. Mengatur PATH environment
+<br/>
+<br/> G. Memilih jenis koneksi ke server
+<br/>
+<br/> I. Megatur baris file text nantinya
+<br/>
+<br/> H. Mengatur terminal emulator
+<br/>
+<br/> J. Memilih opsi tambaham yang di perluakan
+<br/>
+<br/> K. Proses instalasi akan di jalankan,  tunggu sampai 100%
+<br/>
+<br/> L. Proses intalasi telah selesai
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
