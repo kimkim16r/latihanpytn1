@@ -81,7 +81,8 @@ LANGKAH LAHNGKAH MEMBUAT REPOSITORY LOCAL DAN REPOSITORY PADA GITHUB DAN MEMBUAT
 <br/>![PicsArt_10-26-06 29 15](https://user-images.githubusercontent.com/57000408/67618863-d0f5fc80-f81e-11e9-99ea-5278db7acd49.jpg)
 
 <br/> 16.Dan untuk melihat hasilnya cek di github dan lihat di repository nya. 
-<br/>
+<br/>![Screenshot (13)](https://user-images.githubusercontent.com/57000408/67619137-17992600-f822-11e9-9cdf-2133bda010c9.png)
+
 <br/> 17. Jika ingin melalukan clone reposotory gunakan perintan " git clone https://github.com/kimkim16r/latihanpytn1/edit/master/README.md " lalu jika ingin masuk ke direktori gunakan perintah "cd [nama derektori]. Contoh "cd latihanpytn1". Jika ingin melihat semua isi direktori gunkan perinta "ls" 
 <br/>![1572089679616](https://user-images.githubusercontent.com/57000408/67618990-6b0a7480-f820-11e9-9e7b-1de5ea5fae5a.jpg)
 
